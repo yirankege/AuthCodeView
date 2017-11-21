@@ -24,4 +24,4 @@ This a auth code View,can update some properties,
 		self.view .addSubview(authView)
 
 
-https://github.com/yirankege/AuthCodeView/blob/master/2017-11-21%2017_30_33.gif?raw=true
+![image](https://github.com/yirankege/AuthCodeView/blob/master/2017-11-21%2017_30_33.gif?raw=true)
