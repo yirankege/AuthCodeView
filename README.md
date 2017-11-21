@@ -23,6 +23,6 @@ This a auth code View,can update some properties,
 
 		self.view .addSubview(authView)
 
-	use xib :drag the view into the xib and update the class name.
+	use xib :drag the view into the xib and update the class name to AuthView.
 
 ![image](https://github.com/yirankege/AuthCodeView/blob/master/2017-11-21%2017_30_33.gif?raw=true)
