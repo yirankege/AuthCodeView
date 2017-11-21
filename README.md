@@ -22,3 +22,6 @@ This a auth code View,can update some properties,
 		authView.didInputLineColor = UIColor.black
 
 		self.view .addSubview(authView)
+
+
+https://github.com/yirankege/AuthCodeView/blob/master/2017-11-21%2017_30_33.gif?raw=true
