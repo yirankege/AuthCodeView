@@ -1,6 +1,7 @@
 # AuthCodeView
 This a auth code View,can update some properties,
 	the properties as follows:(margin,lineColor,keyboard,...) 
+	
 这个用于验证码的demo，可以修改一些属性，比如：边距，线的颜色，键盘
 
 How To Use:
